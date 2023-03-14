@@ -1,0 +1,3 @@
+module battleshipsample2023
+{
+}
